@@ -29,7 +29,6 @@
 </div>
 
 <h3>Contact:</h3>
-```javascript
-const yazar = {
+```
  Discord:arsugami
-};
+```
