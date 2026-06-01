@@ -30,5 +30,7 @@
 
 <h3>Contact:</h3>
 ```
+
 Discord: arsugami
+
 ```
