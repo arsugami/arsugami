@@ -29,4 +29,7 @@
 </div>
 
 <h3>Contact:</h3>
-{content:d }
+```javascript
+const yazar = {
+ Discord:arsugami
+};
